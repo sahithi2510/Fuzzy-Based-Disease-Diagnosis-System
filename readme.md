@@ -97,5 +97,5 @@ This project is open-source and free to use under the MIT License.
 
 ## Contact
 
-For questions or contributions, contact **[Your Name]** at **[Your Email]**.
+For questions or contributions, contact **Dhanakudharam Sahithi** at **sahithidhanakudharam25@gmail.com**.
 
