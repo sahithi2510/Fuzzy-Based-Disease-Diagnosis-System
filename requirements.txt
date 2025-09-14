@@ -1,6 +1,9 @@
-numpy
-pandas
-scikit-fuzzy
+
+
 streamlit
+pandas
+numpy
+scikit-fuzzy
 matplotlib
-scikit-learn
+networkx
+scipy
